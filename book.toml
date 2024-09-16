@@ -3,7 +3,7 @@ authors = ["Jasper"]
 language = "de"
 multilingual = false
 src = "src"
-title = "Satzung"
+title = "Förderverein Inselmäuse: Satzung und Ordnungen"
 
 [output.html]
 no-section-label = true
