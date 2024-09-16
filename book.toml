@@ -4,3 +4,7 @@ language = "de"
 multilingual = false
 src = "src"
 title = "Satzung"
+
+[output.html]
+no-section-label = true
+cname = "satzung.inselmaus.de"
