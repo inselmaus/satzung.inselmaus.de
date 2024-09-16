@@ -1,0 +1,6 @@
+[book]
+authors = ["Jasper"]
+language = "de"
+multilingual = false
+src = "src"
+title = "Satzung"
