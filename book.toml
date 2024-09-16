@@ -8,3 +8,7 @@ title = "Förderverein Inselmäuse: Satzung und Ordnungen"
 [output.html]
 no-section-label = true
 cname = "satzung.inselmaus.de"
+smart-punctuation = true
+
+git-repository-url = "https://github.com/jaheba/inselmaus-satzung"
+git-repository-icon = "fa-github"

@@ -1,3 +1,9 @@
 # Summary
 
-- [Satzung](./satzung.md)
+# Satzung
+
+- [Vereinssatzung](./satzung.md)
+
+# Ordnungen
+
+- [Beitragsordnung]()
