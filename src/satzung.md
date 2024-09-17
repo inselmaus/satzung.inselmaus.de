@@ -2,8 +2,8 @@
 
 ## § 1 Name, Sitz, Geschäftsjahr
 
-1. Der am tt.mm.2024 gegründete Verein trägt den Namen „Förderverein der Kita Inselmäuse Potsdam“ und soll ins Vereinsregister eingetragen werden. Nach der Eintragung führt der Verein den Zusatz "e.V.".  
-2. Der Verein hat seinen Sitz in Potsdam und die Geschäftsstelle befindet sich in der AWO Kita "Inselmäuse", Burgstraße 23B, 14467 Potsdam.  
+1. Der am tt.mm.2024 gegründete Verein trägt den Namen „Förderverein der Kita Inselmäuse Potsdam“ und soll ins Vereinsregister eingetragen werden. Nach der Eintragung führt der Verein den Zusatz "e.V.".
+2. Der Verein hat seinen Sitz in Potsdam und die Geschäftsstelle befindet sich in der AWO Kita "Inselmäuse", Burgstraße 23B, 14467 Potsdam.
 3. Geschäftsjahr ist das Kalenderjahr.
 
 ## § 2 Zweck und Ziel des Vereins
@@ -42,7 +42,7 @@
 
 3. Die Mitgliedschaft endet
 
-   1. durch Austritt, der vom Mitglied gegenüber dem Vorstand schriftlich zum Ende des Geschäftsjahres erklärt werden kann. Das Nähre regelt die Beitragsordnung; 
+   1. durch Austritt, der vom Mitglied gegenüber dem Vorstand schriftlich zum Ende des Geschäftsjahres erklärt werden kann. Das Nähre regelt die Beitragsordnung;
 
    2. Tod des Mitglieds oder Auflösung der juristischen Person;
 
@@ -54,7 +54,7 @@
 
 4. Bei Ende der Mitgliedschaft besteht kein Anspruch auf anteilige Erstattung von fälligen oder entrichteten Mitgliedsbeiträgen.
 
-5. Von den Mitgliedern sind Beiträge zu entrichten, deren Höhe und Zahlungszeitpunkt die Beitragsordnung festlegt  
+5. Von den Mitgliedern sind Beiträge zu entrichten, deren Höhe und Zahlungszeitpunkt die Beitragsordnung festlegt
 6. Paare, die Sorge für ein von der Kita Inselmäuse betreutes Kind tragen, können jeweils Mitglied des Vereins werden, sich aber einen gemeinsamen Mitgliedsbeitrag teilen (Partnermitgliedschaft). Beide Partner haben weiterhin je ein eigenes Stimmrecht. Bei Ausscheiden von einem der Partner aus dem Verein übernimmt der andere Partner die alleinige Verantwortung zur Entrichtung von zukünftigen Mitgliedsbeiträgen.
 
 ## § 5 Organe des Vereins
@@ -69,8 +69,10 @@ Organe des Vereins sind
 
 1. Oberstes Organ des Fördervereins ist die mindestens einmal im Jahr stattfindende Mitgliederversammlung.
 
-   1. Zu der Mitgliederversammlung werden die Mitglieder vom Vorstand spätestens zwei Wochen zuvor in Textform (zum Beispiel per E-Mail, Website, Aushang in der Kita, Nachricht in der Kita-App) unter Angabe der Tagesordnung eingeladen. Einladungen gelten als zugestellt, wenn sie an die dem Förderverein zuletzt angegebene Anschrift oder E-Mail-Adresse gerichtet sind.  
-   2. Mitgliederversammlungen können in digitaler Form abgehalten werden.  
+   1. Zu der Mitgliederversammlung werden die Mitglieder vom Vorstand spätestens zwei Wochen zuvor in Textform (zum Beispiel per E-Mail, Website, Aushang in der Kita, Nachricht in der Kita-App) unter Angabe der Tagesordnung eingeladen. Einladungen gelten als zugestellt, wenn sie an die dem Förderverein zuletzt angegebene Anschrift oder E-Mail-Adresse gerichtet sind.
+
+   2. Mitgliederversammlungen können in digitaler Form abgehalten werden.
+
    3. Anträge zur Tagesordnung sind spätestens eine Woche vor der Mitgliederversammlung in Textform beim Vorstand einzureichen.
 
    4. Eine außerordentliche Mitgliederversammlung ist einzuberufen, wenn es der Vorstand beschließt oder mindestens 20% der Mitglieder schriftlich beantragen. Der Antrag soll begründet werden.
@@ -111,42 +113,43 @@ Organe des Vereins sind
 
    11. die Auflösung des Vereins
 
-4. Über die Mitgliederversammlung und deren Beschlüsse ist ein Protokoll anzufertigen, das vom Protokollführer zu unterschreiben und vom Versammlungsleiter gegenzuzeichnen ist. Sollte der Protokollführer ausnahmsweise nicht anwesend sein können, wird vom Versammlungsleiter kurzfristig ein Mitglied aus der Mitgliederversammlung zum stellvertretenden Protokollführer bestimmt.
+4. Die Mitgliederversammlung entscheidet vor der Wahl des Vorstands und der Kassenprüfer jeweils ob diese als Einzelwahl oder Blockwahl stattfinden soll.
 
-5. Das Protokoll muss den Mitgliedern innerhalb von 6 Monaten zugänglich sein; Einwendungen können nur innerhalb eines Monats, nachdem das Protokoll zugänglich gemacht worden ist, erhoben werden.
+5. Über die Mitgliederversammlung und deren Beschlüsse ist ein Protokoll anzufertigen, das vom Protokollführer zu unterschreiben und vom Versammlungsleiter gegenzuzeichnen ist. Sollte der Protokollführer ausnahmsweise nicht anwesend sein können, wird vom Versammlungsleiter kurzfristig ein Mitglied aus der Mitgliederversammlung zum stellvertretenden Protokollführer bestimmt.
+
+6. Das Protokoll muss den Mitgliedern innerhalb von 6 Monaten zugänglich sein; Einwendungen können nur innerhalb eines Monats, nachdem das Protokoll zugänglich gemacht worden ist, erhoben werden.
 
 ## § 7 Der Vorstand
 
-1. Vorstand im Sinne des § 26 BGB sind der Vorsitzende, der stellvertretende Vorsitzende und der Kassenwart. Der Vorstand besteht aus mindestens drei bis maximal sechs Personen, wobei die Funktionen Vorsitzender, stellvertretender Vorsitzender und Kassenwart doppelt besetzt werden können. Der Verein wird gerichtlich und außergerichtlich durch den Vorstand im Sinne des § 26 BGB vertreten; jeder dieser Vorstandsmitglieder kann den Verein allein vertreten, wobei er an die Vorstandsbeschlüsse gebunden ist.  
-2. Die einzelnen Mitglieder des Vorstandes werden jeweils für ein Jahr gewählt und bleiben bis zur Neuwahl im Amt. Scheidet ein Mitglied des Vorstandes während der Amtsperiode aus, so kann der Vorstand ein Ersatzmitglied bis zur nächsten Mitgliederversammlung benennen.  
-3. Dem Vorstand obliegt die Führung der laufenden Geschäfte einschließlich der Beschlussfassung über die Verwendung des Vereinsvermögens. Dazu berät sich der Vorstand regelmäßig mit der Kitaleitung und dem Kitaausschuss. Der Vorstand gibt sich eine Geschäftsordnung, die der Mitgliederversammlung bekannt zu geben ist.  
-4. Der Vorsitzende, bei dessen Verhinderung, der stellvertretende Vorsitzende, lädt zu Vorstandssitzungen schriftlich, telefonisch oder per E-Mail ein. Vorstandssitzungen können digital durchgeführt werden. Der Vorstand ist beschlussfähig, wenn mindestens 50% der stimmberechtigten Vorstandsmitglieder an der Sitzung teilnehmen. Beschlüsse werden mit einfacher Mehrheit gefasst. Bei Stimmengleichheit entscheidet die Stimme des Sitzungsleiters. Von den Vorstandssitzungen sind Protokolle anzufertigen.  
-5. Der Vorstand kann durch mehrere Beisitzer ergänzt werden, die vom Vorstand benannt und von der Mitgliederversammlung bestätigt werden. Sie werden vom Vorstand mit Aufgaben betraut und können zu den Sitzungen des Vorstandes eingeladen werden. Beisitzer haben bei Vorstandsversammlungen kein Stimmrecht und sind nicht vertretungsberechtigt.  
+1. Vorstand im Sinne des § 26 BGB sind der Vorsitzende, der stellvertretende Vorsitzende und der Kassenwart. Der Vorstand besteht aus mindestens drei bis maximal sechs Personen, wobei die Funktionen Vorsitzender, stellvertretender Vorsitzender und Kassenwart doppelt besetzt werden können. Der Verein wird gerichtlich und außergerichtlich durch den Vorstand im Sinne des § 26 BGB vertreten; jeder dieser Vorstandsmitglieder kann den Verein allein vertreten, wobei er an die Vorstandsbeschlüsse gebunden ist.
+2. Die einzelnen Mitglieder des Vorstandes werden jeweils für ein Jahr gewählt und bleiben bis zur Neuwahl im Amt. Scheidet ein Mitglied des Vorstandes während der Amtsperiode aus, so kann der Vorstand ein Ersatzmitglied bis zur nächsten Mitgliederversammlung benennen.
+3. Dem Vorstand obliegt die Führung der laufenden Geschäfte einschließlich der Beschlussfassung über die Verwendung des Vereinsvermögens. Dazu berät sich der Vorstand regelmäßig mit der Kitaleitung und dem Kitaausschuss. Der Vorstand gibt sich eine Geschäftsordnung, die der Mitgliederversammlung bekannt zu geben ist.
+4. Der Vorsitzende, bei dessen Verhinderung, der stellvertretende Vorsitzende, lädt zu Vorstandssitzungen schriftlich, telefonisch oder per E-Mail ein. Vorstandssitzungen können digital durchgeführt werden. Der Vorstand ist beschlussfähig, wenn mindestens 50% der stimmberechtigten Vorstandsmitglieder an der Sitzung teilnehmen. Beschlüsse werden mit einfacher Mehrheit gefasst. Bei Stimmengleichheit entscheidet die Stimme des Sitzungsleiters. Von den Vorstandssitzungen sind Protokolle anzufertigen.
+5. Der Vorstand kann durch mehrere Beisitzer ergänzt werden, die vom Vorstand benannt und von der Mitgliederversammlung bestätigt werden. Sie werden vom Vorstand mit Aufgaben betraut und können zu den Sitzungen des Vorstandes eingeladen werden. Beisitzer haben bei Vorstandsversammlungen kein Stimmrecht und sind nicht vertretungsberechtigt.
 6. Der Vorstand kann zweckgebundene Ausschüsse einsetzen.
 
 ## § 8 Kassenprüfer
 
-1. Die Kassenführung des Vereins wird mindestens einmal im Jahr von mindestens zwei Vereinsmitgliedern geprüft, die hierzu von der Mitgliederversammlung für jeweils ein Geschäftsjahr zu wählen sind. Die Kassenprüfer dürfen keine Vorstandsmitglieder sein.  
+1. Die Kassenführung des Vereins wird mindestens einmal im Jahr von mindestens zwei Vereinsmitgliedern geprüft, die hierzu von der Mitgliederversammlung für jeweils ein Geschäftsjahr zu wählen sind. Die Kassenprüfer dürfen keine Vorstandsmitglieder sein.
 2. Sie erstatten in der dem Geschäftsjahr folgenden Mitgliederversammlung Bericht und empfehlen bei ordnungsgemäßer Kassenführung der Mitgliederversammlung die Entlastung des Vorstandes.
 
 ## § 9 Satzungsänderungen
 
-1. Eine Satzungsänderung kann nur beschlossen werden, wenn sie bei der Einberufung zur Mitgliederversammlung als Tagesordnungspunkt gesondert aufgeführt ist.  
-2. Eine Satzungsänderung bedarf einer absoluten Mehrheit der anwesenden stimmberechtigten Mitglieder.  
+1. Eine Satzungsänderung kann nur beschlossen werden, wenn sie bei der Einberufung zur Mitgliederversammlung als Tagesordnungspunkt gesondert aufgeführt ist.
+2. Eine Satzungsänderung bedarf einer absoluten Mehrheit der anwesenden stimmberechtigten Mitglieder.
 3. Änderungen oder Ergänzungen der Satzung, die die zuständige Registerbehörde oder das Finanzamt vorschreiben, werden vom Vorstand umgesetzt und bedürfen keiner Beschlussfassung durch die Mitgliederversammlung. Sie sind den Mitgliedern spätestens mit der Einladung zur nächsten Mitgliederversammlung mitzuteilen.
 
 ## § 10 Ordnungen
 
-1. Der Vorstand kann Ordnungen erlassen, die Aspekte der Vereinsarbeit im Sinne der Satzung regeln. Darunter fallen insbesondere eine Geschäftsordnung, eine Datenschutzordnung und eine Beitragsordnung.  
-2. Alle Ordnungen werden mit einer Mehrheit von ⅔ der Mitglieder des Vorstands beschlossen.  
+1. Der Vorstand kann Ordnungen erlassen, die Aspekte der Vereinsarbeit im Sinne der Satzung regeln. Darunter fallen insbesondere eine Geschäftsordnung, eine Datenschutzordnung und eine Beitragsordnung.
+2. Alle Ordnungen werden mit einer Mehrheit von ⅔ der Mitglieder des Vorstands beschlossen.
 3. Der Verstand ist bei der Ausgestaltung von Ordnungen an Beschlüsse der Mitgliederversammlung gebunden.
 
 ## § 11 Auflösung
 
-1. Die Auflösung des Vereins kann nur von einer zu diesem Zweck einberufenen außerordentlichen Mitgliederversammlung mit ⅔ Mehrheit der anwesenden stimmberechtigten Mitglieder beschlossen werden.  
+1. Die Auflösung des Vereins kann nur von einer zu diesem Zweck einberufenen außerordentlichen Mitgliederversammlung mit ⅔ Mehrheit der anwesenden stimmberechtigten Mitglieder beschlossen werden.
 2. Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt sein Vermögen an den “AWO Bezirksverband Potsdam e.V”, der es unmittelbar und ausschließlich für gemeinnützige Zwecke und die Förderung der Bildung und Erziehung in der Kita Inselmäuse in Potsdam zu verwenden hat.
 
 ## § 12 Inkrafttreten
 
 Die Satzung ist in der vorliegenden Form am tt.mm.2024 von der Mitgliederversammlung des Fördervereins der Kita Inselmäuse Potsdam beschlossen worden und tritt mit Eintragung in das Vereinsregister in Kraft.
-
