@@ -1,8 +1,10 @@
-# Satzung (Entwurf)
+# Satzung
+
+*Stand 19. September 2024*
 
 ## § 1 Name, Sitz, Geschäftsjahr
 
-1. Der am tt.mm.2024 gegründete Verein trägt den Namen „Förderverein der Kita Inselmäuse Potsdam“ und soll ins Vereinsregister eingetragen werden. Nach der Eintragung führt der Verein den Zusatz "e.V.".
+1. Der am 19. September 2024 gegründete Verein trägt den Namen „Förderverein der Kita Inselmäuse Potsdam“ und soll ins Vereinsregister eingetragen werden. Nach der Eintragung führt der Verein den Zusatz "e.V.".
 2. Der Verein hat seinen Sitz in Potsdam und die Geschäftsstelle befindet sich in der AWO Kita "Inselmäuse", Burgstraße 23B, 14467 Potsdam.
 3. Geschäftsjahr ist das Kalenderjahr.
 
