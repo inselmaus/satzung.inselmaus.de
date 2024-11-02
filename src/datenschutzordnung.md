@@ -6,7 +6,7 @@ _Stand 2. November 2024_ -- _Beschlossen durch den Vorstand_
 
 Diese Datenschutzordnung regelt die Erhebung, Verarbeitung und Nutzung personenbezogener Daten im Förderverein der Kita Inselmäuse Potsdam e.V. (im Folgenden: „Verein“ genannt). Sie verfolgt das Ziel, die persönlichen Daten der Vereinsmitglieder sowie weiterer Personen, deren Daten der Verein verarbeitet, gemäß den geltenden Datenschutzgesetzen, insbesondere der Datenschutz-Grundverordnung (DSGVO), zu schützen.
 
-## $ 1 Grundsätze
+## § 1 Grundsätze
 
 1. Der Verein verarbeitet personenbezogene Daten nur dann, wenn dies zur Erfüllung der Vereinszwecke oder zur Wahrung berechtigter Interessen des Vereins erforderlich ist und keine überwiegenden schutzwürdigen Interessen der betroffenen Person entgegenstehen.
 
