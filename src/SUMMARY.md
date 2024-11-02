@@ -5,3 +5,5 @@
 ---
 
 - [Beitragsordnung]()
+
+- [Datenschutzordnung](./datenschutzordnung.md)
