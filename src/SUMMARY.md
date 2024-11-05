@@ -4,6 +4,6 @@
 
 ---
 
-- [Beitragsordnung]()
+- [Beitragsordnung](./beitragsordnung.md)
 
 - [Datenschutzordnung](./datenschutzordnung.md)
