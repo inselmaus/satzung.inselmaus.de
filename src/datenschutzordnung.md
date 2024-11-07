@@ -1,6 +1,6 @@
 # Datenschutzordnung
 
-_Stand 2. November 2024_ -- _Beschlossen durch den Vorstand_
+_Stand 7. November 2024 – Beschlossen durch den Vorstand_
 
 ## Präambel
 
