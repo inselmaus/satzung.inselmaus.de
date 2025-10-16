@@ -1,6 +1,6 @@
 # Beitragsordnung
 
-_Stand 7. November 2024 – Beschlossen durch den Vorstand_
+_Stand 16. Oktoboer 2025 – Beschlossen durch den Vorstand_
 
 ## Präambel
 
@@ -29,6 +29,8 @@ Die Beitragsordnung ist an die Beschlüsse der Mitgliederversammlung gebunden, d
 3. Sollte sich das Bankkonto eines Mitglieds ändern, ist dies dem Verein unverzüglich mitzuteilen. Für Gebühren, die durch Rücklastschriften aufgrund unzureichender Deckung oder falscher Kontodaten entstehen, haftet das Mitglied, sofern es diese zu vertreten hat.
 
 4. Zur Deckung der Mehrkosten behält sich der Verein vor, von Mitgliedern, die sich mit der Beitragszahlung in Verzug befinden und deshalb vom Förderverein schriftlich gemahnt werden müssen, Mahngebühren von 5 Euro pro Mahnung zu erheben.
+
+5. Die Vorabinformation (Pre-Notification) über den Einzug fälliger Beiträge erfolgt spätestens einen Kalendertag vor dem jeweiligen Fälligkeitsdatum an die zuletzt mitgeteilte E-Mail-Adresse.
 
 ## § 4 Spenden und Spendenbescheinigungen
 
