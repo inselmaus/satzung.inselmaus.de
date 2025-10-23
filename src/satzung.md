@@ -145,7 +145,7 @@ Organe des Vereins sind
 
 1. Der Vorstand kann Ordnungen erlassen, die Aspekte der Vereinsarbeit im Sinne der Satzung regeln. Darunter fallen insbesondere eine Geschäftsordnung, eine Datenschutzordnung und eine Beitragsordnung.
 2. Alle Ordnungen werden mit einer Mehrheit von ⅔ der Mitglieder des Vorstands beschlossen.
-3. Der Verstand ist bei der Ausgestaltung von Ordnungen an Beschlüsse der Mitgliederversammlung gebunden.
+3. Der Vorstand ist bei der Ausgestaltung von Ordnungen an Beschlüsse der Mitgliederversammlung gebunden.
 
 ## § 11 Auflösung
 
