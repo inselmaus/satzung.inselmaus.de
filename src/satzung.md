@@ -1,6 +1,6 @@
 # Satzung
 
-*Stand 19. September 2024*
+*Fassung gemäß Beschluss vom 16. November 2026*
 
 ## § 1 Name, Sitz, Geschäftsjahr
 
@@ -79,7 +79,7 @@ Organe des Vereins sind
 
    4. Eine außerordentliche Mitgliederversammlung ist einzuberufen, wenn es der Vorstand beschließt oder mindestens 20% der Mitglieder schriftlich beantragen. Der Antrag soll begründet werden.
 
-2. Die Mitgliederversammlung wird vom Vorsitzenden geleitet, im Verhinderungsfall von seinem Vertreter. Sollte auch dieser verhindert sein, wählt die Mitgliederversammlung den Leiter aus ihrer Mitte.
+2. Die Mitgliederversammlung wird von einem vom Vorstand bestimmten Vorstandsmitglied geleitet. Ist kein Vorstandsmitglied zur Versammlungsleitung verfügbar, wählt die Mitgliederversammlung einen Versammlungsleiter aus ihrer Mitte.
 
    1. Jedes Mitglied hat eine Stimme, die nur persönlich abgegeben werden kann. Mitglieder unter 16 Jahren sind durch einen gesetzlichen Vertreter, der bei der Abstimmung persönlich anwesend sein muss, stimmberechtigt.
 
@@ -103,17 +103,15 @@ Organe des Vereins sind
 
    5. die Wahl eines Protokollführers
 
-   6. die Bestätigung der vom Vorstand vorgeschlagenen Beisitzer
+   6. die Ausgestaltung der Beitragsordnung
 
-   7. die Ausgestaltung der Beitragsordnung
+   7. die Beratung über die geplante Verwendung der Mittel
 
-   8. die Beratung über die geplante Verwendung der Mittel
+   8. die Entscheidung über eingereichte Anträge
 
-   9. die Entscheidung über eingereichte Anträge
+   9. die Änderung der Satzung (Ausnahme § 9, Abs.3)
 
-   10. die Änderung der Satzung (Ausnahme § 9, Abs.3)
-
-   11. die Auflösung des Vereins
+   10. die Auflösung des Vereins
 
 4. Die Mitgliederversammlung entscheidet vor der Wahl des Vorstands und der Kassenprüfer jeweils ob diese als Einzelwahl oder Blockwahl stattfinden soll.
 
@@ -123,11 +121,11 @@ Organe des Vereins sind
 
 ## § 7 Der Vorstand
 
-1. Vorstand im Sinne des § 26 BGB sind der Vorsitzende, der stellvertretende Vorsitzende und der Kassenwart. Der Vorstand besteht aus mindestens drei bis maximal sechs Personen, wobei die Funktionen Vorsitzender, stellvertretender Vorsitzender und Kassenwart doppelt besetzt werden können. Der Verein wird gerichtlich und außergerichtlich durch den Vorstand im Sinne des § 26 BGB vertreten; jeder dieser Vorstandsmitglieder kann den Verein allein vertreten, wobei er an die Vorstandsbeschlüsse gebunden ist.
-2. Die einzelnen Mitglieder des Vorstandes werden jeweils für ein Jahr gewählt und bleiben bis zur Neuwahl im Amt. Scheidet ein Mitglied des Vorstandes während der Amtsperiode aus, so kann der Vorstand ein Ersatzmitglied bis zur nächsten Mitgliederversammlung benennen.
+1. Der Vorstand im Sinne des § 26 BGB besteht aus mindestens drei und höchstens sechs gleichberechtigten Mitgliedern. Der Verein wird gerichtlich und außergerichtlich durch den Vorstand vertreten. Jedes Vorstandsmitglied ist einzeln vertretungsberechtigt und im Innenverhältnis an die Beschlüsse des Vorstands gebunden. Der Vorstand regelt die Verteilung der Aufgaben und Zuständigkeiten unter seinen Mitgliedern selbst.
+2. Die einzelnen Mitglieder des Vorstandes werden jeweils für zwei Jahre gewählt und bleiben bis zur Neuwahl im Amt. Scheidet ein Mitglied des Vorstandes während der Amtsperiode aus, so kann der Vorstand ein Ersatzmitglied bis zur nächsten Mitgliederversammlung benennen.
 3. Dem Vorstand obliegt die Führung der laufenden Geschäfte einschließlich der Beschlussfassung über die Verwendung des Vereinsvermögens. Dazu berät sich der Vorstand regelmäßig mit der Kitaleitung und dem Kitaausschuss. Der Vorstand gibt sich eine Geschäftsordnung, die der Mitgliederversammlung bekannt zu geben ist.
-4. Der Vorsitzende, bei dessen Verhinderung, der stellvertretende Vorsitzende, lädt zu Vorstandssitzungen schriftlich, telefonisch oder per E-Mail ein. Vorstandssitzungen können digital durchgeführt werden. Der Vorstand ist beschlussfähig, wenn mindestens 50% der stimmberechtigten Vorstandsmitglieder an der Sitzung teilnehmen. Beschlüsse werden mit einfacher Mehrheit gefasst. Bei Stimmengleichheit entscheidet die Stimme des Sitzungsleiters. Von den Vorstandssitzungen sind Protokolle anzufertigen.
-5. Der Vorstand kann durch mehrere Beisitzer ergänzt werden, die vom Vorstand benannt und von der Mitgliederversammlung bestätigt werden. Sie werden vom Vorstand mit Aufgaben betraut und können zu den Sitzungen des Vorstandes eingeladen werden. Beisitzer haben bei Vorstandsversammlungen kein Stimmrecht und sind nicht vertretungsberechtigt.
+4. Der Vorstand bestimmt, wer zu den Vorstandssitzungen schriftlich, telefonisch oder per E-Mail einlädt und diese leitet. Vorstandssitzungen können digital durchgeführt werden. Der Vorstand ist beschlussfähig, wenn mindestens 50 % der stimmberechtigten Vorstandsmitglieder an der Sitzung teilnehmen. Beschlüsse werden mit einfacher Mehrheit gefasst. Bei Stimmengleichheit entscheidet die Stimme des Sitzungsleiters. Von den Vorstandssitzungen sind Protokolle anzufertigen.
+5. Der Vorstand kann zur Unterstützung seiner Arbeit Beisitzer benennen und ihnen bestimmte Aufgaben übertragen. Beisitzer können zu Vorstandssitzungen eingeladen werden. Sie sind nicht Mitglieder des Vorstands, haben kein Stimmrecht im Vorstand und sind nicht zur Vertretung des Vereins berechtigt.
 6. Der Vorstand kann zweckgebundene Ausschüsse einsetzen.
 
 ## § 8 Kassenprüfer
