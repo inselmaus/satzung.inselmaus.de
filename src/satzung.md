@@ -1,6 +1,6 @@
 # Satzung
 
-*Fassung gemäß Beschluss vom 16. November 2026*
+*Fassung gemäß Beschluss der Mitgliederversammlung vom 16. November 2026*
 
 ## § 1 Name, Sitz, Geschäftsjahr
 
