@@ -152,4 +152,6 @@ Organe des Vereins sind
 
 ## § 12 Inkrafttreten
 
-Die Satzung ist in der vorliegenden Form am 19.09.2024 von der Gründungsversammlung des Fördervereins der Kita Inselmäuse Potsdam beschlossen worden und tritt mit Eintragung in das Vereinsregister in Kraft.
+Die Gründungssatzung des Fördervereins der Kita Inselmäuse Potsdam wurde am 19. September 2024 von der Gründungsversammlung beschlossen und trat mit der Eintragung des Vereins in das Vereinsregister in Kraft.
+
+Die von der Mitgliederversammlung am 16. November 2026 beschlossenen Satzungsänderungen treten mit ihrer Eintragung in das Vereinsregister in Kraft.
